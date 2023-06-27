@@ -1,0 +1,28 @@
+<html>
+    
+    <head>
+        
+        <title>Tribute Page</title>
+        
+    </head>
+    
+    <body>
+        <h1>Tribute Page For Kevin Hart</h1>
+        <img src="picture.jpg" alt="Portrait of Kevin Hart" width="300" height="350">
+        <p>
+            Without even trying, Kevin Hart can make everyone laugh.
+        </p>
+     
+        <a href="https://kevinhartnation.com/">
+            Learn more about Kevin Hart
+        </a>
+        <h2>Things To Admire About Kevin Hart</h2>
+        <ul>
+            <li>He's also very honest.</li>
+            <li>Kevin is 5'4'' and proud!</li>
+            <li>He's not afraid to show his vulnerable side.</li>
+        </ul>
+          
+    </body>
+    
+</html>
